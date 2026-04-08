@@ -72,3 +72,13 @@ Mỗi người nộp sketch giấy + ghi chú phân tích 4 paths. Đây là **�
 ---
 
 *Bài tập UX — Ngày 5 — VinUni A20 — AI Thực Chiến · 2026*
+![alt text](image.png)
+
+Workflow
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
+
+![alt text](image-4.png)
